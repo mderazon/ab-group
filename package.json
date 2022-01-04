@@ -11,6 +11,12 @@
   "engines": {
     "node": ">=10.0.0"
   },
+  "bugs:": "https://github.com/mderazon/ab-group/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mderazon/ab-group.git"
+  },
+  "homepage": "https://github.com/mderazon/ab-group",
   "keywords": [
     "ab group",
     "a/b",
