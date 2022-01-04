@@ -1,6 +1,6 @@
 {
   "name": "ab-group",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate ab-groups from user ids for your a/b tests",
   "main": "lib",
   "scripts": {
